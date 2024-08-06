@@ -4,7 +4,7 @@ headers = {
 
 user_body = {
     "firstName": "Leo",
-    "phone": "+300123456789",
+    "phone": "+301234567890",
     "address": "123 Elm Street, Hilltop"
 }
 
