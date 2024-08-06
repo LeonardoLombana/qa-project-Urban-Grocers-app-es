@@ -1,6 +1,7 @@
 import sender_stand_request
 import data
 
+#Pruebas a realizar
 
 def get_user_kit(user_kit):
     current_kit_body = data.kit_body.copy()
