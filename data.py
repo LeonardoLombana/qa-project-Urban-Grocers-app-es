@@ -3,9 +3,9 @@ headers = {
 }
 
 user_body = {
-    "firstName": "Max",
-    "phone": "+10005553535",
-    "address": "8042 Lancaster Ave.Hamburg, NY"
+    "firstName": "Leo",
+    "phone": "+300123456789",
+    "address": "123 Elm Street, Hilltop"
 }
 
 kit_body = {"cardId": 1,
