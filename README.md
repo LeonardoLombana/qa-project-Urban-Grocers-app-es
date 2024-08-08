@@ -8,7 +8,7 @@
 # Tecnologias usadas:
 - pycharm
 - pytest
-- request
+- request (Libreria)
 
 ## Ejecución de Pruebas 
 1. Clona el repositorio localmente.
