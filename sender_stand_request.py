@@ -10,8 +10,7 @@ def post_new_user(body):
 
 
 response = post_new_user(data.user_body)
-print(response.status_code)
-print(response.json()['authToken'])
+
 
 
 def post_new_kit(kit):
@@ -23,5 +22,4 @@ def post_new_kit(kit):
 
 
 response_kit = post_new_kit(data.kit_body)
-print(response_kit.status_code)
-print(response_kit.text)
+
