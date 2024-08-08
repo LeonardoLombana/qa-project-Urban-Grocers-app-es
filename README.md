@@ -19,8 +19,8 @@
 - Completado
 
 # Presentado por:
--Leonardo Lombana Contento
+- Leonardo Lombana Contento
 
 # Proyecto parte del sprint 7 - introducción a la automatizacion de pruebas
-# grupo 12 bootcamp Qa engineer - Tripleten
+# Grupo 12 bootcamp QA Engineer - Tripleten
   
