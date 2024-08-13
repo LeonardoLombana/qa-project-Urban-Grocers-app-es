@@ -1,4 +1,4 @@
-## Proyecto Urban Grocers 
+## Proyecto pruebas automatizadas api Urban Grocers 
 - Este proyecto automatiza las pruebas en la aplicacion urban Grocers ejecutando pruebas en la creación de kits de productos, se usa una lista de comprobación definida previamente que determina los alcances de las pruebas de software deacuerdo a sus requerimientos. Se envían solicitudes POST en este ambiente de pruebas a una API y se verifican los resultados esperados segun la lista de comprobación.
 
 ## Pruebas para el parámetro firstName al crear un/a usuario/a en la api
